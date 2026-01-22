@@ -28,7 +28,7 @@ Other features X have 0 (0%) null values: no drop or imputation is required.
 ### Logistic Regression
 With:
 - C in {0.1, 1, 10}
-### RandomForest
+### Random Forest
 With:
 - n_estimators in {200, 400, 600}
 - criterion in {"gini", "entropy", "log_loss"}
