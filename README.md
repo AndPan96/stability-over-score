@@ -58,7 +58,7 @@ All models are Pareto Optimal wrt the Mode, showing effective training.\
 None of the selected models shows high variability over seeds, which suggests robustness under iid assumptions.\
 None of the selected models shows high variability within families, which suggests that the more stable configurations of each family did not benefit from inductive bias apart, not accounted by the family selection.\
 GradientBoosting show a slight but systematic better performance than other families, that suggests the inductive bias of the boosting family may be more effective to model the underlying distribution.
-![not found in path](fig\plot.png)
+![not found in path](fig/plot.png)
 
 
 ## References
